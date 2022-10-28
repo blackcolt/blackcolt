@@ -1,8 +1,9 @@
 ### Hello World 👋
-I am a fullstack software engineer from Israel! 
+I am a fullstack software engineer from the holy land! 
 
-- 🔭 Working on multiple frontend and backend project using react and nodejs
-- 🌱 Learning design patterns in depth
+- 🔭 Working on multiple frontend and backend project using react and nodejs 
+- 🌱 Teaching design patterns in depth
+
 <br>
 
 ## Connect with me
